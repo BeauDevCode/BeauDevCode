@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, i am BeauDevCode🏌🏿‍♀️<br>I'm passionate about coding and graphic design, and I love combining both to bring creative ideas to life. <br><br>> 🧱 *“No one starts as a genius. They become one by building, failing, and repeating like crazy.”* <br>— inspired by the grind<br><br>Thanks for dropping by!<br>Feel free to dig into my code, fork a project, or just say hey.<br>
+Yo, i am BeauDevCode🏌🏿‍♀️<br>I'm passionate about coding and graphic design, and I love combining both to bring creative ideas to life. <br><br>> 🧱 *“No one starts as a genius. They become one by building, failing, and repeating like crazy.”* <br>— inspired by the grind<br><br>Thanks for dropping by!<br>Feel free to dig into my code, fork a project, or just say hey.<br>
 
  
 ## 🌐 Socials:
