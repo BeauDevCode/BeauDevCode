@@ -1,56 +1,34 @@
-# Christ Beaubrun | BeauDevCode
+# Christ Beaubrun — Software Engineering Student
 
-I am a Computer Science student at LSU focused on software engineering, cybersecurity, AI tools, data products, and interactive systems.
+I’m a software engineering student building Python, FastAPI, AI, cybersecurity, and full-stack web projects. I focus on practical apps that solve real workflow problems, not just tutorial projects.
 
-I build projects that combine practical engineering with product thinking: infrastructure dashboards, AI-evaluation tools, security utilities, Streamlit apps, backend APIs, and game prototypes.
+## Featured Project
+
+### ServicePilot AI  
+Live Demo: https://servicepilot-ai-python.onrender.com  
+GitHub Repo: https://github.com/BeauDevCode/servicepilot-ai-python  
+
+ServicePilot AI is an AI-powered FastAPI CRM for local service businesses. It turns messy customer requests into structured jobs, quotes, invoices, tasks, and follow-ups.
+
+Tech Stack: Python, FastAPI, SQLModel, SQLite, Jinja2, HTMX, Tailwind CSS, OpenAI API, Docker, GitHub Actions, pytest, Ruff.
+
+What it shows:
+- Full-stack Python web app development
+- Database modeling and CRUD workflows
+- AI-assisted intake with mock fallback mode
+- Testing, linting, Docker, and CI
+- Live deployment on Render
+- Product thinking for real business workflows
 
 ## Current Focus
 
-- Software engineering and backend development
-- Cybersecurity tools and secure systems
-- AI evaluation, task design, and automation
-- Data visualization and technical dashboards
-- Practical apps that solve clear user problems
+- Backend development with Python and FastAPI
+- AI-powered web applications
+- Secure software development
+- Full-stack product engineering
+- Building job-ready portfolio projects
 
-## Featured Projects
+## Links
 
-### TerraGrid Atlas
-
-A global grid intelligence atlas for exploring power plants, substations, transmission systems, data centers, country dashboards, and sample infrastructure density in one map-first interface.
-
-**Tech:** Next.js, TypeScript, Tailwind CSS, MapLibre GL JS, Recharts
-
-### EdgeCaseForge AI
-
-A Streamlit tool for creating stronger AI coding-evaluation tasks with edge cases, hidden-test ideas, golden-solution hints, and model-failure analysis.
-
-**Tech:** Python, Streamlit, JSON, subprocess-based validation
-
-### LifeLedger AI
-
-A personal finance dashboard that analyzes transactions, flags budget risks, forecasts cash flow, prioritizes debt payoff, and exports an action plan.
-
-**Tech:** Python, Streamlit, Pandas, Pytest
-
-### Secure Network Monitoring Tool
-
-A Python-based Linux network monitoring tool that captures packet data and detects suspicious traffic patterns such as port scans and abnormal connections.
-
-**Tech:** Python, Linux, networking, cybersecurity
-
-## Core Tech
-
-**Languages:** Python, TypeScript, JavaScript, C++, C#, SQL  
-**Tools:** Git, GitHub Actions, Linux, Node.js, Streamlit, Next.js, Tailwind CSS, Unity  
-**Areas:** software engineering, cybersecurity, AI evaluation, geospatial dashboards, backend systems
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BeauDevCode&theme=transparent&hide_border=true&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BeauDevCode&theme=transparent&hide_border=true&layout=compact)
-
-## Connect
-
-- GitHub: [BeauDevCode](https://github.com/BeauDevCode)
-- LinkedIn: [Christ Beaubrun](https://www.linkedin.com/in/christbeaubrun)
+- Live Project: https://servicepilot-ai-python.onrender.com
+- GitHub: https://github.com/BeauDevCode
