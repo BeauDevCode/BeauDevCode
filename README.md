@@ -1,57 +1,81 @@
-# Christ Beaubrun — Software Engineering Student
+# Christ Beaubrun
 
-I build practical Python, FastAPI, AI, and full-stack web applications. I focus on real workflow problems, clean documentation, testing, CI, and deployable demos.
+Software Engineering student focused on backend systems, AI-powered web applications, and polished developer tools.
 
-## Featured Project
+I build deployable products with Python, FastAPI, TypeScript, React, Docker, CI, and automated tests. My current focus is shipping portfolio-grade apps, strengthening my open-source record, and writing clear documentation that makes projects easy to review.
+
+## Featured Engineering Work
 
 ### ServicePilot AI
 
-Live Demo: https://servicepilot-ai-python.onrender.com  
-GitHub Repo: https://github.com/BeauDevCode/servicepilot-ai-python
+AI-powered FastAPI CRM for local service businesses. It converts messy customer messages into structured customers, jobs, quote drafts, invoices, tasks, and follow-ups.
 
-ServicePilot AI is an AI-powered FastAPI CRM for local service businesses. It turns messy customer requests into structured jobs, quotes, invoices, tasks, and follow-ups.
+- Live demo: https://servicepilot-ai-python.onrender.com
+- Repo: https://github.com/BeauDevCode/servicepilot-ai-python
+- Stack: Python, FastAPI, SQLModel, SQLite, Jinja2, HTMX, Tailwind CSS, OpenAI API
+- Quality: pytest, Ruff, Docker, Docker Compose, GitHub Actions, mock AI mode for reliable demos and CI
 
-Tech Stack: Python, FastAPI, SQLModel, SQLite, Jinja2, HTMX, Tailwind CSS, OpenAI API, Docker, GitHub Actions, pytest, Ruff.
+### ScopeGuard AI
 
-What it shows:
-- Full-stack Python web app development
-- Database modeling and CRUD workflows
-- AI-assisted intake with mock fallback mode
-- Testing, linting, Docker, and CI
-- Live deployment on Render
-- Product thinking for real business workflows
+Professional TypeScript workflow app for responsible project scoping, safe metadata handling, candidate triage, and report preparation.
 
-## Open-Source Work
+- Repo: https://github.com/BeauDevCode/ScopeGuard-AI
+- Stack: TypeScript, React, Playwright-oriented workflow design, Vitest
+- Focus: scoped project setup, careful data handling, clean workflow states, public-demo safety
+- Quality: tests, linting, typecheck, build, CI, and public safety checks
 
-I contribute to open-source by working on focused bug fixes, test coverage, CLI behavior, workflow documentation, and developer tooling improvements.
+### TerraGrid Atlas
+
+Global grid intelligence dashboard for exploring electricity infrastructure through maps, country dashboards, comparison tools, and an infrastructure explorer.
+
+- Repo: https://github.com/BeauDevCode/terragrid-atlas
+- Stack: Next.js, TypeScript, Tailwind CSS, MapLibre GL JS, Recharts
+- Features: global atlas, infrastructure filters, country dashboards, comparison workspace, methodology page
+- Architecture: local sample datasets behind adapter boundaries for future live data sources
+
+### Wasp Nest University
+
+Unity third-person wasp simulator prototype with flight controls, sting interactions, NPC targets, and campus-inspired level design.
+
+- Repo: https://github.com/BeauDevCode/Wasp-Nest-University
+- Stack: Unity, C#, third-person camera, animation controllers, gameplay scripting
+- Focus: game systems, movement feel, interaction design, level prototyping, PC/mobile-friendly controls
+
+## Open Source
+
+I contribute focused fixes to public projects and track accepted work honestly.
+
+Merged contributions:
+
+- `omobolajiadeyan/phishguard-ai` — added opt-in plain CLI output mode with regression tests.
+- `KaolaBrother/Kaola-Workflow` — clarified finalize sink workflow behavior and validated contract scripts.
 
 Contribution tracker: https://github.com/BeauDevCode/BeauDevCode/blob/main/CONTRIBUTIONS.md
 
-My contribution workflow:
-- Reproduce or understand the issue
-- Read the relevant code path
-- Create a focused patch
-- Add or update tests
-- Validate with local test commands
-- Submit a clean pull request with summary, testing, and risk notes
+## What I Care About
 
-Recent accepted work includes a merged CLI/output-mode contribution with regression tests and a merged workflow documentation/contract clarification.
+- Building useful products, not just demos
+- Writing code that can be tested, deployed, and reviewed
+- Clear READMEs, screenshots, setup instructions, and validation steps
+- Responsible development and careful tooling
+- Turning small projects into polished engineering evidence
 
 ## Current Focus
 
-- Backend development with Python and FastAPI
-- AI-powered web applications
-- Secure software development
-- Open-source bug fixing and regression testing
+- Backend engineering with Python and FastAPI
+- AI-assisted workflow applications
 - Full-stack product engineering
+- Open-source fixes, tests, documentation, and CLI improvements
+- Production-quality project presentation
 
-## Selected Work
+## Best Repos To Review
 
 - ServicePilot AI: https://github.com/BeauDevCode/servicepilot-ai-python
+- ScopeGuard AI: https://github.com/BeauDevCode/ScopeGuard-AI
 - TerraGrid Atlas: https://github.com/BeauDevCode/terragrid-atlas
 - Wasp Nest University: https://github.com/BeauDevCode/Wasp-Nest-University
+- Open-source tracker: https://github.com/BeauDevCode/BeauDevCode/blob/main/CONTRIBUTIONS.md
 
-## Links
+## Contact
 
-- Live Project: https://servicepilot-ai-python.onrender.com
 - GitHub: https://github.com/BeauDevCode
