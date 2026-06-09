@@ -1,35 +1,35 @@
 # Christ Beaubrun
 
-Computer Science student. I build backend services, full-stack apps, and developer tools.
+CS @ LSU. I work mainly in Python, TypeScript, and C#.
 
-Most of my work is focused on Python/FastAPI, TypeScript, product workflows, and small projects that can be run, reviewed, and tested.
+I use this GitHub to keep projects that can be cloned, run, reviewed, and improved.
 
-## Work
+## Selected repositories
 
-| Repository | Focus | Notes |
+| Repo | Area | What to look for |
 | --- | --- | --- |
-| [servicepilot-ai-python](https://github.com/BeauDevCode/servicepilot-ai-python) | Backend/product app | FastAPI, SQLModel, Jinja2, HTMX, Docker, pytest, GitHub Actions. Live demo included. |
-| [terragrid-atlas](https://github.com/BeauDevCode/terragrid-atlas) | Data/map interface | Next.js, TypeScript, MapLibre, Tailwind, Recharts. Interactive infrastructure atlas and dashboards. |
-| [ScopeGuard-AI](https://github.com/BeauDevCode/ScopeGuard-AI) | Developer workflow tool | TypeScript, React, Vitest. Focused on scoped project setup, safe sample data, and reviewable workflow states. |
-| [Wasp-Nest-University](https://github.com/BeauDevCode/Wasp-Nest-University) | Game systems prototype | Unity/C#. Flight controls, third-person camera feel, and interaction mechanics. |
+| [servicepilot-ai-python](https://github.com/BeauDevCode/servicepilot-ai-python) | Backend / product workflow | FastAPI app with SQLModel models, server-rendered UI, Docker, pytest, Ruff, GitHub Actions, and a live demo. |
+| [terragrid-atlas](https://github.com/BeauDevCode/terragrid-atlas) | Web / data interface | Next.js + TypeScript map interface with filters, dashboards, comparison views, and documented data limitations. |
+| [ScopeGuard-AI](https://github.com/BeauDevCode/ScopeGuard-AI) | Developer tooling | TypeScript/React workflow app with tests, validation scripts, safe sample data, and reviewable state transitions. |
+| [Wasp-Nest-University](https://github.com/BeauDevCode/Wasp-Nest-University) | Game programming | Unity/C# prototype focused on flight controls, camera feel, and interaction mechanics. |
 
 ## Open source
 
 Accepted pull requests:
 
-- [omobolajiadeyan/phishguard-ai #7](https://github.com/omobolajiadeyan/phishguard-ai/pull/7) — plain CLI output mode with regression tests.
-- [KaolaBrother/Kaola-Workflow #299](https://github.com/KaolaBrother/Kaola-Workflow/pull/299) — workflow documentation update with contract validation.
+- [phishguard-ai #7](https://github.com/omobolajiadeyan/phishguard-ai/pull/7) — added a plain CLI output mode with regression tests.
+- [Kaola-Workflow #299](https://github.com/KaolaBrother/Kaola-Workflow/pull/299) — clarified workflow behavior and validated the related contract scripts.
 
-I separate accepted work from drafts and closed experiments here: [CONTRIBUTIONS.md](https://github.com/BeauDevCode/BeauDevCode/blob/main/CONTRIBUTIONS.md).
+More detail: [CONTRIBUTIONS.md](https://github.com/BeauDevCode/BeauDevCode/blob/main/CONTRIBUTIONS.md)
 
-## Current interests
+## Current focus
 
 - Backend services
 - Full-stack TypeScript
 - Developer tooling
-- Test coverage and CI
-- Practical AI features inside normal software products
+- CI, tests, and documentation
+- Unity/C# gameplay systems
 
 ## Contact
 
-GitHub: [@BeauDevCode](https://github.com/BeauDevCode)
+[@BeauDevCode](https://github.com/BeauDevCode)
