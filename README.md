@@ -1,44 +1,35 @@
 # Christ Beaubrun
 
-Computer Science student building backend services, full-stack web apps, and developer tools.
+Computer Science student. I build backend services, full-stack apps, and developer tools.
 
-I care about projects that are easy to run, easy to review, and backed by tests or clear validation steps.
+Most of my work is focused on Python/FastAPI, TypeScript, product workflows, and small projects that can be run, reviewed, and tested.
 
-## Selected work
+## Work
 
-| Project | What it is | Stack |
+| Repository | Focus | Notes |
 | --- | --- | --- |
-| [ServicePilot AI](https://github.com/BeauDevCode/servicepilot-ai-python) | CRM-style workflow app for turning customer requests into jobs, quotes, invoices, and follow-ups | Python, FastAPI, SQLModel, Jinja2, HTMX, Docker, pytest |
-| [TerraGrid Atlas](https://github.com/BeauDevCode/terragrid-atlas) | Interactive grid-infrastructure atlas with maps, dashboards, filters, and comparison views | Next.js, TypeScript, MapLibre, Tailwind, Recharts |
-| [ScopeGuard AI](https://github.com/BeauDevCode/ScopeGuard-AI) | TypeScript workflow app for scoped project setup, safe metadata handling, and report preparation | TypeScript, React, Vitest, Playwright-oriented design |
-| [Wasp Nest University](https://github.com/BeauDevCode/Wasp-Nest-University) | Unity prototype focused on flight controls, third-person camera feel, and interaction systems | Unity, C# |
+| [servicepilot-ai-python](https://github.com/BeauDevCode/servicepilot-ai-python) | Backend/product app | FastAPI, SQLModel, Jinja2, HTMX, Docker, pytest, GitHub Actions. Live demo included. |
+| [terragrid-atlas](https://github.com/BeauDevCode/terragrid-atlas) | Data/map interface | Next.js, TypeScript, MapLibre, Tailwind, Recharts. Interactive infrastructure atlas and dashboards. |
+| [ScopeGuard-AI](https://github.com/BeauDevCode/ScopeGuard-AI) | Developer workflow tool | TypeScript, React, Vitest. Focused on scoped project setup, safe sample data, and reviewable workflow states. |
+| [Wasp-Nest-University](https://github.com/BeauDevCode/Wasp-Nest-University) | Game systems prototype | Unity/C#. Flight controls, third-person camera feel, and interaction mechanics. |
 
 ## Open source
 
-I track accepted work separately from experiments and closed PRs.
+Accepted pull requests:
 
-Merged contributions:
+- [omobolajiadeyan/phishguard-ai #7](https://github.com/omobolajiadeyan/phishguard-ai/pull/7) — plain CLI output mode with regression tests.
+- [KaolaBrother/Kaola-Workflow #299](https://github.com/KaolaBrother/Kaola-Workflow/pull/299) — workflow documentation update with contract validation.
 
-- [phishguard-ai #7](https://github.com/omobolajiadeyan/phishguard-ai/pull/7) — added an opt-in plain CLI output mode with regression tests.
-- [Kaola-Workflow #299](https://github.com/KaolaBrother/Kaola-Workflow/pull/299) — clarified finalize sink workflow behavior and validated contract scripts.
+I separate accepted work from drafts and closed experiments here: [CONTRIBUTIONS.md](https://github.com/BeauDevCode/BeauDevCode/blob/main/CONTRIBUTIONS.md).
 
-Tracker: [CONTRIBUTIONS.md](https://github.com/BeauDevCode/BeauDevCode/blob/main/CONTRIBUTIONS.md)
+## Current interests
 
-## How I build
+- Backend services
+- Full-stack TypeScript
+- Developer tooling
+- Test coverage and CI
+- Practical AI features inside normal software products
 
-- Keep the scope small enough to finish
-- Add setup instructions and validation commands
-- Use tests, CI, Docker, or documented checks where they fit
-- Prefer readable code over clever code
-- Document tradeoffs instead of pretending a prototype is production
+## Contact
 
-## Current focus
-
-- Backend engineering with Python and FastAPI
-- Full-stack TypeScript apps
-- Practical AI features inside normal software workflows
-- Developer tooling, CLI behavior, documentation, and test coverage
-
-## Links
-
-- GitHub: https://github.com/BeauDevCode
+GitHub: [@BeauDevCode](https://github.com/BeauDevCode)
