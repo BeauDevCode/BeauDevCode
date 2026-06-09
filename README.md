@@ -25,6 +25,8 @@ What it shows:
 
 I contribute to open-source by working on focused bug fixes, test coverage, CLI behavior, workflow documentation, and developer tooling improvements.
 
+Contribution tracker: https://github.com/BeauDevCode/BeauDevCode/blob/main/CONTRIBUTIONS.md
+
 My contribution workflow:
 - Reproduce or understand the issue
 - Read the relevant code path
@@ -32,6 +34,8 @@ My contribution workflow:
 - Add or update tests
 - Validate with local test commands
 - Submit a clean pull request with summary, testing, and risk notes
+
+Recent accepted work includes a merged CLI/output-mode contribution with regression tests and a merged workflow documentation/contract clarification.
 
 ## Current Focus
 
