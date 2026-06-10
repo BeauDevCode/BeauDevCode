@@ -21,10 +21,10 @@ This page tracks my public open-source work in a way that is honest and easy for
 | Repository | Pull Request | Status | Next Step |
 | --- | --- | --- | --- |
 | quantumlib/OpenFermion | https://github.com/quantumlib/OpenFermion/pull/1347 | Open | Watch for maintainer feedback; small packaging metadata fix. |
-| Xarlos89/Eos | https://github.com/Xarlos89/Eos/pull/142 | Open draft | Confirm lint/test environment, then mark ready for review. |
-| TruFoundation/TruShell | https://github.com/TruFoundation/TruShell/pull/57 | Open draft | Confirm unrelated failures are documented clearly, then mark ready. |
-| TruFoundation/TruShell | https://github.com/TruFoundation/TruShell/pull/56 | Open draft | Confirm unrelated failures are documented clearly, then mark ready. |
-| june3978/oss-maintainer-kit | https://github.com/june3978/oss-maintainer-kit/pull/5 | Open draft | Test-only change with pytest + Ruff validation; should be moved to ready when final review is complete. |
+| Xarlos89/Eos | https://github.com/Xarlos89/Eos/pull/142 | Open / ready | Await maintainer re-review after requested test helper update. |
+| TruFoundation/TruShell | https://github.com/TruFoundation/TruShell/pull/57 | Open / ready | Watch for maintainer response after conflict resolution and path-with-spaces coverage. |
+| TruFoundation/TruShell | https://github.com/TruFoundation/TruShell/pull/56 | Open / ready | Watch for maintainer response after cd normalization coverage. |
+| june3978/oss-maintainer-kit | https://github.com/june3978/oss-maintainer-kit/pull/5 | Open / ready | Test-only change with pytest + Ruff validation; monitor for maintainer response. |
 | tomcounsell/ai | https://github.com/tomcounsell/ai/pull/1610 | Open | Docs-only change; monitor for maintainer response. |
 
 ## Closed / Not Counted As Accepted

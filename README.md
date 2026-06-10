@@ -1,50 +1,72 @@
 # Christ Beaubrun
 
-Computer Science student at LSU building backend services, full-stack TypeScript apps, developer tools, and Unity/C# gameplay systems.
+Computer Science student at LSU building backend services, TypeScript interfaces, developer tools, and Unity/C# gameplay systems.
 
-I use this GitHub as a public workbench. The projects I highlight should be easy to clone, run, test, review, and improve. I care about working software, clear setup instructions, honest limitations, and visible iteration.
+This profile is a portfolio index. It points reviewers to projects that are meant to be cloned, run, tested, and evaluated without inflated claims about production use or security coverage.
 
-## What I build
+## Selected Work
 
-- **Backend systems** — APIs, data models, dashboards, validation flows, and deployment-friendly project structure.
-- **Full-stack TypeScript** — React and Next.js projects with practical UI flows and documented data assumptions.
-- **Developer tools** — utilities for validation, task design, automation, and workflow checks.
-- **Unity/C# gameplay** — prototypes focused on movement feel, camera behavior, interactions, and playable loops.
-- **Applied Python projects** — course and portfolio work turned into small, reviewable software systems.
+| Project | Focus | What to review | Demo / media |
+| --- | --- | --- | --- |
+| [servicepilot-ai-python](https://github.com/BeauDevCode/servicepilot-ai-python) | FastAPI backend / product workflow | SQLModel data model, server-rendered UI, Docker setup, pytest, Ruff, and GitHub Actions. | [Live demo](https://servicepilot-ai-python.onrender.com) |
+| [terragrid-atlas](https://github.com/BeauDevCode/terragrid-atlas) | Next.js / data interface | Map views, filters, dashboards, comparison pages, and documented data assumptions. | Screenshot or GIF placeholder pending |
+| [ScopeGuard-AI](https://github.com/BeauDevCode/ScopeGuard-AI) | Developer workflow tooling | TypeScript/React flow for scoping implementation work, sample data, and validation scripts. | Screenshot or GIF placeholder pending |
+| [Wasp-Nest-University](https://github.com/BeauDevCode/Wasp-Nest-University) | Unity/C# gameplay | Flight controls, camera feel, collision response, and prototype interaction mechanics. | Gameplay capture pending |
+| [Secure-Network-Monitoring-Tool](https://github.com/BeauDevCode/Secure-Network-Monitoring-Tool) | Python / network monitoring | Packet capture workflow, rule-based traffic checks, and alert logging from a Linux environment. | Terminal screenshot placeholder pending |
+| [EdgeCaseForge-AI](https://github.com/BeauDevCode/EdgeCaseForge-AI) | Evaluation tooling | Streamlit app for drafting coding tasks, hidden test ideas, solution notes, and failure-case checks. | Screenshot placeholder pending |
 
-## Selected work
+## Setup
 
-| Project | Type | What to review |
-| --- | --- | --- |
-| [servicepilot-ai-python](https://github.com/BeauDevCode/servicepilot-ai-python) | Backend / product workflow | FastAPI app with SQLModel models, server-rendered UI, Docker, pytest, Ruff, GitHub Actions, and a live demo. |
-| [terragrid-atlas](https://github.com/BeauDevCode/terragrid-atlas) | Web / data interface | Next.js + TypeScript atlas with map views, filters, dashboards, comparison pages, and documented data limitations. |
-| [ScopeGuard-AI](https://github.com/BeauDevCode/ScopeGuard-AI) | Developer tooling | TypeScript/React workflow app with tests, validation scripts, safe sample data, and reviewable state transitions. |
-| [Wasp-Nest-University](https://github.com/BeauDevCode/Wasp-Nest-University) | Game programming | Unity/C# prototype focused on flight controls, camera feel, collision response, and interaction mechanics. |
-| [EdgeCaseForge-AI](https://github.com/BeauDevCode/EdgeCaseForge-AI) | Evaluation tooling | Streamlit app for designing coding tasks, hidden test ideas, solution notes, and failure-case checks. |
+This profile repository is documentation-only.
 
-## Repository standard
+```bash
+git clone https://github.com/BeauDevCode/BeauDevCode.git
+cd BeauDevCode
+```
 
-For featured projects, I aim to include:
+There is no install step for this repository because it does not contain an application package. Each featured project has its own setup instructions.
 
-- clear README with purpose and scope
-- setup and run instructions from a fresh clone
-- screenshots, GIFs, or demo links where helpful
-- tests, validation scripts, or manual test notes
-- CI, linting, Docker, or deployment notes when useful
-- roadmap/issues showing the next improvements
-- honest limitations instead of overselling unfinished work
+## Demo
 
-## Open-source work
+The public GitHub profile renders from this `README.md`. Demo links and screenshot placeholders are listed in the selected work table so missing media is visible instead of implied.
+
+## Architecture
+
+The portfolio is organized around four practical areas:
+
+- Backend and product workflows
+- TypeScript web interfaces
+- Developer and evaluation tooling
+- Unity/C# gameplay prototypes
+
+The selected work table is intentionally short so the strongest repositories are visible first.
+
+## Validation
+
+Fresh-clone checks performed for this profile pass:
+
+- Confirmed repository contains `README.md` and `CONTRIBUTIONS.md`.
+- Confirmed there is no package manifest, build config, CI workflow, or automated test command in this repo.
+- Checked for the old malformed `Sleeper Build**` profile status line.
+- Reviewed featured repository descriptions and demo metadata through GitHub.
+
+## Limitations
+
+- Screenshot and GIF media is still pending for several featured projects.
+- GitHub profile pin ordering is controlled by account-level profile settings, not by this README.
+- This profile does not claim production usage, customer adoption, security guarantees, or accepted pull requests unless those are linked and verifiable.
+
+## Roadmap
+
+- Add real screenshots or GIFs to the top three featured repositories.
+- Keep featured repository descriptions short and professional.
+- Keep [CONTRIBUTIONS.md](https://github.com/BeauDevCode/BeauDevCode/blob/main/CONTRIBUTIONS.md) current as open pull requests are merged, closed, or updated.
+- Add project-specific setup and validation improvements inside each featured repository.
+
+## Open Source Work
 
 Accepted and active contributions are tracked in [CONTRIBUTIONS.md](https://github.com/BeauDevCode/BeauDevCode/blob/main/CONTRIBUTIONS.md).
 
-## Current focus
-
-- shipping portfolio projects that run cleanly from a fresh clone
-- improving READMEs, demo media, tests, and CI coverage
-- building backend and workflow-heavy apps with practical business logic
-- contributing small, reviewable fixes to open-source projects
-
 ## Contact
 
-[@BeauDevCode](https://github.com/BeauDevCode)
+GitHub: [@BeauDevCode](https://github.com/BeauDevCode)
