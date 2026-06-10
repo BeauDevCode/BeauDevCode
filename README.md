@@ -2,7 +2,15 @@
 
 CS @ LSU. I work mainly in Python, TypeScript, and C#.
 
-I use this GitHub to keep projects that can be cloned, run, reviewed, and improved.
+I use this GitHub to keep projects that can be cloned, run, reviewed, improved, and contributed to.
+
+## Open to contributors
+
+These projects are public and set up for outside review or contribution:
+
+- [servicepilot-ai-python](https://github.com/BeauDevCode/servicepilot-ai-python) — flagship FastAPI workflow app with live demo, tests, CI, Docker, roadmap, security policy, and contributor guide.
+- [terragrid-atlas](https://github.com/BeauDevCode/terragrid-atlas) — Next.js + TypeScript map/data interface with contributor guide, roadmap, security policy, and public improvement issues.
+- [Wasp-Nest-University](https://github.com/BeauDevCode/Wasp-Nest-University) — Unity/C# prototype with contributor guide, roadmap, and security policy.
 
 ## Selected repositories
 
