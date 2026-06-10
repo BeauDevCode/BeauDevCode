@@ -1,42 +1,49 @@
 # Christ Beaubrun
 
-CS @ LSU. I work mainly in Python, TypeScript, and C#.
+Computer Science student at LSU building backend services, full-stack TypeScript apps, developer tools, and Unity/C# gameplay systems.
 
-I use this GitHub to keep projects that can be cloned, run, reviewed, improved, and contributed to.
+I use this GitHub as a public workbench. The projects I highlight should be easy to clone, run, test, review, and improve. I care about working software, clear setup instructions, honest limitations, and visible iteration.
 
-## Open to contributors
+## What I build
 
-These projects are public and set up for outside review or contribution:
+- **Backend systems** — APIs, data models, dashboards, validation flows, and deployment-friendly project structure.
+- **Full-stack TypeScript** — React and Next.js projects with practical UI flows and documented data assumptions.
+- **Developer tools** — utilities for validation, task design, automation, and workflow checks.
+- **Unity/C# gameplay** — prototypes focused on movement feel, camera behavior, interactions, and playable loops.
+- **Applied Python projects** — course and portfolio work turned into small, reviewable software systems.
 
-- [servicepilot-ai-python](https://github.com/BeauDevCode/servicepilot-ai-python) — flagship FastAPI workflow app with live demo, tests, CI, Docker, roadmap, security policy, and contributor guide.
-- [terragrid-atlas](https://github.com/BeauDevCode/terragrid-atlas) — Next.js + TypeScript map/data interface with contributor guide, roadmap, security policy, and public improvement issues.
-- [Wasp-Nest-University](https://github.com/BeauDevCode/Wasp-Nest-University) — Unity/C# prototype with contributor guide, roadmap, and security policy.
+## Selected work
 
-## Selected repositories
-
-| Repo | Area | What to look for |
+| Project | Type | What to review |
 | --- | --- | --- |
 | [servicepilot-ai-python](https://github.com/BeauDevCode/servicepilot-ai-python) | Backend / product workflow | FastAPI app with SQLModel models, server-rendered UI, Docker, pytest, Ruff, GitHub Actions, and a live demo. |
-| [terragrid-atlas](https://github.com/BeauDevCode/terragrid-atlas) | Web / data interface | Next.js + TypeScript map interface with filters, dashboards, comparison views, and documented data limitations. |
+| [terragrid-atlas](https://github.com/BeauDevCode/terragrid-atlas) | Web / data interface | Next.js + TypeScript atlas with map views, filters, dashboards, comparison pages, and documented data limitations. |
 | [ScopeGuard-AI](https://github.com/BeauDevCode/ScopeGuard-AI) | Developer tooling | TypeScript/React workflow app with tests, validation scripts, safe sample data, and reviewable state transitions. |
-| [Wasp-Nest-University](https://github.com/BeauDevCode/Wasp-Nest-University) | Game programming | Unity/C# prototype focused on flight controls, camera feel, and interaction mechanics. |
+| [Wasp-Nest-University](https://github.com/BeauDevCode/Wasp-Nest-University) | Game programming | Unity/C# prototype focused on flight controls, camera feel, collision response, and interaction mechanics. |
+| [EdgeCaseForge-AI](https://github.com/BeauDevCode/EdgeCaseForge-AI) | Evaluation tooling | Streamlit app for designing coding tasks, hidden test ideas, solution notes, and failure-case checks. |
 
-## Open source
+## Repository standard
 
-Accepted pull requests:
+For featured projects, I aim to include:
 
-- [phishguard-ai #7](https://github.com/omobolajiadeyan/phishguard-ai/pull/7) — added a plain CLI output mode with regression tests.
-- [Kaola-Workflow #299](https://github.com/KaolaBrother/Kaola-Workflow/pull/299) — clarified workflow behavior and validated the related contract scripts.
+- clear README with purpose and scope
+- setup and run instructions from a fresh clone
+- screenshots, GIFs, or demo links where helpful
+- tests, validation scripts, or manual test notes
+- CI, linting, Docker, or deployment notes when useful
+- roadmap/issues showing the next improvements
+- honest limitations instead of overselling unfinished work
 
-More detail: [CONTRIBUTIONS.md](https://github.com/BeauDevCode/BeauDevCode/blob/main/CONTRIBUTIONS.md)
+## Open-source work
+
+Accepted and active contributions are tracked in [CONTRIBUTIONS.md](https://github.com/BeauDevCode/BeauDevCode/blob/main/CONTRIBUTIONS.md).
 
 ## Current focus
 
-- Backend services
-- Full-stack TypeScript
-- Developer tooling
-- CI, tests, and documentation
-- Unity/C# gameplay systems
+- shipping portfolio projects that run cleanly from a fresh clone
+- improving READMEs, demo media, tests, and CI coverage
+- building backend and workflow-heavy apps with practical business logic
+- contributing small, reviewable fixes to open-source projects
 
 ## Contact
 
