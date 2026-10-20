@@ -1,50 +1,24 @@
 # Christ Beaubrun
 
-Computer Science student at LSU building backend services, full-stack TypeScript apps, developer tools, and Unity/C# gameplay systems.
+Computer Science student at LSU building Python services and TypeScript interfaces. I focus on projects people can open, run, and review: working demos, clear data limits, tests, and deployment checks.
 
-I use this GitHub as a public workbench. The projects I highlight should be easy to clone, run, test, review, and improve. I care about working software, clear setup instructions, honest limitations, and visible iteration.
+## Projects on my resume
 
-## What I build
-
-- **Backend systems** — APIs, data models, dashboards, validation flows, and deployment-friendly project structure.
-- **Full-stack TypeScript** — React and Next.js projects with practical UI flows and documented data assumptions.
-- **Developer tools** — utilities for validation, task design, automation, and workflow checks.
-- **Unity/C# gameplay** — prototypes focused on movement feel, camera behavior, interactions, and playable loops.
-- **Applied Python projects** — course and portfolio work turned into small, reviewable software systems.
-
-## Selected work
-
-| Project | Type | What to review |
+| Project | Try it | What I built |
 | --- | --- | --- |
-| [servicepilot-ai-python](https://github.com/BeauDevCode/servicepilot-ai-python) | Backend / product workflow | FastAPI app with SQLModel models, server-rendered UI, Docker, pytest, Ruff, GitHub Actions, and a live demo. |
-| [terragrid-atlas](https://github.com/BeauDevCode/terragrid-atlas) | Web / data interface | Next.js + TypeScript atlas with map views, filters, dashboards, comparison pages, and documented data limitations. |
-| [ScopeGuard-AI](https://github.com/BeauDevCode/ScopeGuard-AI) | Developer tooling | TypeScript/React workflow app with tests, validation scripts, safe sample data, and reviewable state transitions. |
-| [Wasp-Nest-University](https://github.com/BeauDevCode/Wasp-Nest-University) | Game programming | Unity/C# prototype focused on flight controls, camera feel, collision response, and interaction mechanics. |
-| [EdgeCaseForge-AI](https://github.com/BeauDevCode/EdgeCaseForge-AI) | Evaluation tooling | Streamlit app for designing coding tasks, hidden test ideas, solution notes, and failure-case checks. |
+| [ServicePilot AI](https://github.com/BeauDevCode/servicepilot-ai-python) | [Live demo](https://servicepilot-ai-python.onrender.com/) | FastAPI workflow app for turning customer requests into customers, jobs, quotes, invoices, and follow-ups. Includes SQLModel, a mock AI fallback, CSV exports, pytest, and CI. |
+| [TerraGrid Atlas](https://github.com/BeauDevCode/terragrid-atlas) | [Live demo](https://beaudevcode.github.io/terragrid-atlas/) | Next.js and TypeScript interface for exploring sample power infrastructure through a MapLibre atlas, filters, country dashboards, and comparisons. Includes a static export and CI. |
 
-## Repository standard
+ServicePilot's public demo uses one shared database without accounts. Please use fictional customer information. TerraGrid's infrastructure records are sample or estimated data, not an operational grid feed. Each repository has setup steps, screenshots, validation commands, and current limitations.
 
-For featured projects, I aim to include:
+## Other work
 
-- clear README with purpose and scope
-- setup and run instructions from a fresh clone
-- screenshots, GIFs, or demo links where helpful
-- tests, validation scripts, or manual test notes
-- CI, linting, Docker, or deployment notes when useful
-- roadmap/issues showing the next improvements
-- honest limitations instead of overselling unfinished work
+- [ScopeGuard AI](https://github.com/BeauDevCode/ScopeGuard-AI) — TypeScript and React workflow tool with validation checks.
+- [Wasp Nest University](https://github.com/BeauDevCode/Wasp-Nest-University) — Unity and C# gameplay prototype.
+- [EdgeCaseForge AI](https://github.com/BeauDevCode/EdgeCaseForge-AI) — Streamlit tool for drafting coding evaluation tasks and failure cases.
 
-## Open-source work
-
-Accepted and active contributions are tracked in [CONTRIBUTIONS.md](https://github.com/BeauDevCode/BeauDevCode/blob/main/CONTRIBUTIONS.md).
-
-## Current focus
-
-- shipping portfolio projects that run cleanly from a fresh clone
-- improving READMEs, demo media, tests, and CI coverage
-- building backend and workflow-heavy apps with practical business logic
-- contributing small, reviewable fixes to open-source projects
+My open-source contributions are listed in [CONTRIBUTIONS.md](https://github.com/BeauDevCode/BeauDevCode/blob/main/CONTRIBUTIONS.md).
 
 ## Contact
 
-[@BeauDevCode](https://github.com/BeauDevCode)
+[LinkedIn](https://www.linkedin.com/in/christbeaubrun/) · [GitHub](https://github.com/BeauDevCode)
